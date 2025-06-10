@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## HallO World I'm Dafi Ahmad Fahrezi👋
+![Dafi Ahmad Fahrezi] (https://github.com/notfound18/notfound18.git)
 <!--
 **notfound18/notfound18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 🌱 I’m currently learning Html, Css, JavaScriot FrondEnd
