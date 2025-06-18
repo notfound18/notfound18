@@ -1,5 +1,5 @@
 ## HallO World I'm Dafi Ahmad Fahrezi👋
-![Dafi Ahmad Fahrezi(img/github-header1.jpg)
+
 
 <!--
 **notfound18/notfound18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
