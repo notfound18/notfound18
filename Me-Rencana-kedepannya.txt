@@ -1,0 +1,8 @@
+RENCANA SAYA KEDEPANNYA
+
+-Menguasai pemrograman javascript
+* mulai dari Dasar 
+* Frameworks
+-Memahami fundamental html, css, js
+-Memahami algoritma pemrograman 
+-Membuat project nyata sederhana seperti porfolio
