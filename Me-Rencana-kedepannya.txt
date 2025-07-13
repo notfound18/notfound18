@@ -6,5 +6,9 @@ RENCANA SAYA KEDEPANNYA
 ^ vue.js
 ^react.js
 -Memahami fundamental html, css, js
+^ mencoba membuat prpject sederhana 
+
 -Memahami algoritma pemrograman 
+^tipe data 
+^ struktur data
 -Membuat project nyata sederhana seperti porfolio
