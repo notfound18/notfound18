@@ -4,5 +4,9 @@ RENCANA SAYA KEDEPANNYA
 * mulai dari Dasar 
 * Frameworks
 -Memahami fundamental html, css, js
+^ mencoba membuat prpject sederhana 
+
 -Memahami algoritma pemrograman 
+^tipe data 
+^ struktur data
 -Membuat project nyata sederhana seperti porfolio
