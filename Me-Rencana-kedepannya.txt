@@ -3,6 +3,8 @@ RENCANA SAYA KEDEPANNYA
 -Menguasai pemrograman javascript
 * mulai dari Dasar 
 * Frameworks
+^ vue.js
+^react.js
 -Memahami fundamental html, css, js
 -Memahami algoritma pemrograman 
 -Membuat project nyata sederhana seperti porfolio
